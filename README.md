@@ -68,3 +68,10 @@
 - condicional
 - hit count
 - log points
+
+## Links
+
+https://nextjs.org/docs/getting-started/installation
+https://nextjs.org/docs/pages/building-your-application/configuring/debugging
+https://docs.expo.dev/debugging/tools/
+https://fbflipper.com/
